@@ -203,7 +203,7 @@
                 
                 <!-- HEADER SEKOLAH (Selalu Tampil di Atas Kertas) -->
                 <div class="school-header">
-                    <img src="<img width="445" height="561" alt="logo jpg" src="https://github.com/user-attachments/assets/240ff54e-f6e7-440d-a6fb-f68cf2d77ab8" />
+                    "<img width="445" height="561" alt="logo jpg" src="https://github.com/user-attachments/assets/240ff54e-f6e7-440d-a6fb-f68cf2d77ab8" />
 >
                     <h1 class="school-title">SMAN 9 Banjarmasin</h1>
                 </div>
